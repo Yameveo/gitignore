@@ -4,3 +4,4 @@
 /tools/smarty_v2/compile/*
 /themes/prestashop/cache/*
 /cache/*
+/img/tmp/*
