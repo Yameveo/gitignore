@@ -1,0 +1,4 @@
+# Prestashop
+tools/smarty/cache/*
+tools/smarty/compile/*
+tools/smarty_v2/compile/*
